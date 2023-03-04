@@ -69,3 +69,38 @@ li span {
 
   /* float: right; */
 }
+@media screen and (max-width: 1200px) {
+  .container {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 600px) {
+  .container {
+    width: 100%;
+  }
+  .myPhtoto {
+    width: 50px;
+    margin-top: 5px;
+    /* padding-top: 5px; */
+    border: 2px solid gray;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  h3 {
+    font-size: 16px;
+  }
+  h4 {
+    font-size: 14px;
+  }
+  li span {
+    font-size: 10px;
+    font-weight: 700;
+  }
+  li {
+    font-size: 12px;
+  }
+  p {
+    font-size: 12px;
+  }
+}
