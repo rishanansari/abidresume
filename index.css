@@ -85,22 +85,22 @@ li span {
     border: 2px solid gray;
   }
   h2 {
-    font-size: 20px;
+    font-size: 18px;
   }
   h3 {
-    font-size: 16px;
-  }
-  h4 {
     font-size: 14px;
   }
+  h4 {
+    font-size: 12px;
+  }
   li span {
-    font-size: 10px;
+    font-size: 8px;
     font-weight: 700;
   }
   li {
-    font-size: 12px;
+    font-size: 10px;
   }
   p {
-    font-size: 12px;
+    font-size: 10px;
   }
 }
