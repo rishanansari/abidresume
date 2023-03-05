@@ -84,6 +84,12 @@ li span {
     /* padding-top: 5px; */
     border: 2px solid gray;
   }
+  .left_div {
+  width: 100%;
+}
+  .right_div {
+  width: 100%;
+}
   h2 {
     font-size: 18px;
   }
